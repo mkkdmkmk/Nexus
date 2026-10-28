@@ -14,16 +14,7 @@ The product combines game discovery with player profiles, achievements, challeng
 
 ## My Role
 
-Product Designer
-
-- Product Concept
-- UX/UI Design
-- User Flows
-- Interaction Design
-- Information Architecture
-- Responsive Design
-- Prototyping
-- Design System
+AI Product Builder | Design Engineer | AI-Assisted Developer
 
 ## Key Features
 
